@@ -1,0 +1,49 @@
+.color-big-box {
+    
+    border: 1px solid black;
+    height: 80vh; 
+    width: 90vw; 
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    text-align: center;
+    position: relative; 
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 1); 
+  }
+  
+  .color-big-box button {
+    margin-bottom: 10px; 
+    margin-top: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .color-options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .color-option {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    cursor: pointer;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+
+  }
+  
+  .color-option:hover {
+    border: 2px solid #000;
+  }
+  
