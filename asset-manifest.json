@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern_react_task3_color_picker/static/css/main.513dd436.css",
+    "main.js": "/mern_react_task3_color_picker/static/js/main.e0818997.js",
+    "static/js/787.c3321d7f.chunk.js": "/mern_react_task3_color_picker/static/js/787.c3321d7f.chunk.js",
+    "index.html": "/mern_react_task3_color_picker/index.html",
+    "main.513dd436.css.map": "/mern_react_task3_color_picker/static/css/main.513dd436.css.map",
+    "main.e0818997.js.map": "/mern_react_task3_color_picker/static/js/main.e0818997.js.map",
+    "787.c3321d7f.chunk.js.map": "/mern_react_task3_color_picker/static/js/787.c3321d7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.513dd436.css",
+    "static/js/main.e0818997.js"
+  ]
+}
